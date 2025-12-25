@@ -1,0 +1,24 @@
+# ===== Deep Learning =====
+torch
+torchvision
+
+# ===== Object Detection =====
+ultralytics
+
+# ===== SAHI (Sliced Inference) =====
+sahi
+
+# ===== Image Processing =====
+opencv-python
+Pillow
+
+# ===== Data Handling =====
+numpy
+pandas
+
+# ===== Demo App =====
+streamlit
+
+# ===== Utilities =====
+tqdm
+pyyaml
